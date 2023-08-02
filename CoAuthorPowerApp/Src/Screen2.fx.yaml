@@ -1,0 +1,3 @@
+Screen2 As screen:
+    Fill: =RGBA(215, 223, 240, 1)
+
