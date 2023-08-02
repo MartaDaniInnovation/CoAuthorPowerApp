@@ -94,3 +94,9 @@ Screen1 As screen:
             Width: =4
             ZIndex: =6
 
+    Label2 As label:
+        Text: ="Testo"
+        X: =40
+        Y: =40
+        ZIndex: =3
+
