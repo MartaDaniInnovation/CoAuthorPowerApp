@@ -17,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/02/2023 14:04:54",
+  "HeaderLastSavedDateTimeUTC": "08/02/2023 14:06:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -33,10 +33,10 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "gallery": 1,
-    "icon": 3,
-    "image": 2,
+    "icon": 4,
+    "image": 3,
     "label": 0,
-    "rectangle": 4
+    "rectangle": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -56,17 +56,17 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Gallery1": 0,
-    "galleryTemplate1": 0,
+    "Gallery1": 1,
+    "galleryTemplate1": 2,
     "Host": 0,
-    "Image1": 0,
+    "Image1": 4,
     "Label1": 0,
-    "NextArrow1": 0,
-    "Rectangle1": 0,
+    "NextArrow1": 5,
+    "Rectangle1": 3,
     "Screen1": 0,
-    "Separator1": 0,
-    "Subtitle1": 0,
-    "Title1": 0
+    "Separator1": 8,
+    "Subtitle1": 7,
+    "Title1": 6
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
