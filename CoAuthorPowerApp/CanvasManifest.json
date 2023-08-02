@@ -129,6 +129,7 @@
     "UserLocale": "it-IT"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen2"
   ]
 }
