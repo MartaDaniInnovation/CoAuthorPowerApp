@@ -1,3 +1,9 @@
 Screen3 As screen:
     Fill: =RGBA(255, 255, 0, 1)
 
+    Button1 As button:
+        Text: ="Pulsante"
+        X: =472
+        Y: =208
+        ZIndex: =1
+
