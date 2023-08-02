@@ -1,3 +1,9 @@
 Screen2 As screen:
     Fill: =RGBA(215, 223, 240, 1)
 
+    Label3 As label:
+        Text: ="TEST MARTA"
+        X: =440
+        Y: =236
+        ZIndex: =1
+
